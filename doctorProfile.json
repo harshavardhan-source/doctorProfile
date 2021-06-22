@@ -1,0 +1,60 @@
+{
+  "profile": [
+    {
+      "image": "URL",
+      "username": "Ashura2209",
+      "email": "mmm@example.com",
+      "phNo": "8888888888",
+      "gender": "Male",
+      "DOB": "2000-09-22",
+      "Bio": "qwertyuiopasdfghjklzxcvbnm",
+      "contactDetails": {
+        "AddressLine1": "Sanjeev Nagar",
+        "AddressLine2": "Putlur",
+        "City": "Hyderabad",
+        "State": "Telangana",
+        "country": "India",
+        "PostalCode": "515411"
+      },
+      "ApptFee": 200,
+      "specialization": {
+        "tags": [
+          { "id": "General Surgery", "text": "General Surgery" },
+          { "id": "Dermatology", "text": "Dermatology" }
+        ],
+        "suggestions": [
+          { "id": "Dentist", "text": "Dentist" },
+          { "id": "ENT", "text": "ENT" },
+          { "id": "Anaesthesiology", "text": "Anaesthesiology" },
+          { "id": "Orthopaedics", "text": "Orthopaedics" },
+          { "id": "Cardiology", "text": "Cardiology" },
+          { "id": "Ophtalmology", "text": "Ophthalmology" },
+          { "id": "Radiotherapy", "text": "Radiotherapy" }
+        ]
+      },
+      "Education": [
+        { "degree": "MBBS", "college": "SVU Tirupathi", "completion": "2020" },
+        {
+          "degree": "Intermmediate",
+          "college": "Narayana",
+          "completion": "2015"
+        }
+      ],
+      "Experience": [
+        {
+          "HospitalName": "effvrgf",
+          "From": "2020-11-10",
+          "To": "2020-11-12",
+          "Designation": "Surgeon"
+        },
+        {
+          "HospitalName": "effvrvsrvgf",
+          "From": "2020-11-10",
+          "To": "2020-11-12",
+          "Designation": "fSurgeon"
+        }
+      ],
+      "Awards": []
+    }
+  ]
+}
